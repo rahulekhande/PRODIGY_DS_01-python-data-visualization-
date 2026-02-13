@@ -63,5 +63,4 @@ Understanding visualization is an important step in data analysis as it helps in
 
 ---
 
-## 📂 Project Structure  
 
