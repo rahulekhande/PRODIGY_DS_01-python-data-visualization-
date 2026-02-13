@@ -1,40 +1,67 @@
-\# PRODIGY\_DS\_01 - Python Data Visualization
+ ## Task 01: Python Data Visualization
 
+## Overview  
 
+This project focuses on creating and understanding basic data visualizations using Python.
 
-\## Task Description
+The task demonstrates how graphical representations such as bar charts, line charts, and pie charts can be used to analyze and interpret data effectively.
 
-This task focuses on creating visualizations using Python.
+## Dataset  
 
+A simple sales dataset was used for visualization purposes.
 
+The dataset includes information such as:
 
-\## Dataset
+- Product Name  
+- Sales Amount  
+- Time/Category-based values  
 
-A simple sales dataset is used for data visualization.
+The dataset was analyzed to understand trends and comparisons using different visualization techniques.
 
+## Tools & Libraries Used  
 
+- Python  
+- Jupyter Notebook  
+- Pandas (Data handling)  
+- Matplotlib (Data visualization)  
 
-\## Visualizations
+## Visualizations Created  
 
-\- Bar Chart
+### 1️) Bar Chart  
 
-\- Line Chart
+Used to compare sales values across different categories or products.
 
-\- Pie Chart
+Purpose:  
+Helps in comparing quantities clearly and quickly.
 
+### 2️) Line Chart  
 
+Used to show trends over time.
 
-\## Tools Used
+Purpose:  
+Helps in understanding patterns and changes over a period.
 
-\- Python
+### 3) Pie Chart  
 
-\- Pandas
+Used to represent proportional distribution of categories.
 
-\- Matplotlib
+Purpose:  
+Helps visualize percentage contribution of each category.
 
+## Key Insights  
 
+- Bar charts help compare category-wise performance.  
+- Line charts clearly show trends and patterns.  
+- Pie charts effectively display proportional data distribution.  
+- Visualization simplifies complex numerical data.
 
-\## Conclusion
+## Conclusion  
 
-This task demonstrates basic data visualization techniques in Python.
+This task demonstrates fundamental data visualization techniques using Python.
+
+Understanding visualization is an important step in data analysis as it helps in identifying patterns, trends, and insights effectively.
+
+---
+
+## 📂 Project Structure  
 
